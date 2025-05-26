@@ -1,0 +1,62 @@
+[
+    {
+        "recipient": "+27734745274",
+        "messageID": "0921013800",
+        "content": "Hello, how are you?",
+        "hash": "09:1:HELLO,_YOU?"
+    },
+    {
+        "recipient": "+27734745274",
+        "messageID": "0831323220",
+        "content": "Hello baby boy",
+        "hash": "08:1:HELLO_BOY"
+    },
+    {
+        "recipient": "+27780981234",
+        "messageID": "0678291217",
+        "content": "Hello bafo how are you",
+        "hash": "06:1:HELLO_YOU"
+    },
+    {
+        "recipient": "+27743735274",
+        "messageID": "0958976916",
+        "content": "Hello",
+        "hash": "09:1:HELLO_"
+    },
+    {
+        "recipient": "+27734745274",
+        "messageID": "0702055145",
+        "content": "Hello ntate",
+        "hash": "07:1:HELLO_NTATE"
+    },
+    {
+        "recipient": "+27735467890",
+        "messageID": "0385051763",
+        "content": "Hello how are you today? This solution ensures the sequential appearance of windows with a clear delay. Let me know if you encounter further issues!",
+        "hash": "03:1:HELLO_ISSUES!"
+    },
+    {
+        "recipient": "+27730986754",
+        "messageID": "0623730165",
+        "content": "Helllo, I was here.",
+        "hash": "06:1:HELLLO,_HERE."
+    },
+    {
+        "recipient": "+27734745274",
+        "messageID": "ID31855",
+        "content": "Hello, how are you?",
+        "hash": "ID3HEL5274"
+    },
+    {
+        "recipient": "+27734745436",
+        "messageID": "ID686576",
+        "content": "Hey",
+        "hash": "68:686576"
+    },
+    {
+        "recipient": "+27734745274",
+        "messageID": "ID318976",
+        "content": "Hello, how are you?",
+        "hash": "31:318976"
+    }
+]
